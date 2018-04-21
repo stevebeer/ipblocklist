@@ -1,4 +1,3 @@
-IP- # Domein Land Regio Stad ISP ASN
 5.189.190.122 # m2822.contaboserver.net Germany   "Contabo GmbH" AS51167
 66.240.236.119 # census6.shodan.io "United States" CA "San Diego" "CariNet  Inc." AS10439
 95.211.226.185 #  Netherlands   "LeaseWeb Netherlands B.V." AS60781
