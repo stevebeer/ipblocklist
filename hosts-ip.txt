@@ -1,6 +1,6 @@
 #####################################################################       
 # Stevebeer IP Blocklist                                           #       
-# Generated on 2018-05-12 00:51:02 UTC                              #       
+# Generated on 2018-05-14 23:01:02 UTC                              #       
 #                                                                   #       
 # For questions please refer to:                                    #       
 # https://github.com/stevebeer/ipblocklist                     #       
@@ -63,6 +63,7 @@
 5.79.69.140  #  Netherlands   LeaseWeb Netherlands B.V. AS60781
 94.75.249.3  #  Netherlands   LeaseWeb Netherlands B.V. AS60781
 95.211.163.39  #  Netherlands   LeaseWeb Netherlands B.V. AS60781
+190.34.195.227  #  Panama 8 Panama Cable & Wireless Panama AS11556
 185.22.153.172  # yaae.top Russian Federation   LLC Baxet AS51659
 185.22.153.172  # yaae.top Russian Federation   LLC Baxet AS51659
 46.161.55.106  #  Russian Federation   OOO Network of data-centers Selectel AS49505
@@ -73,6 +74,7 @@
 95.213.130.90  #  Russian Federation   OOO Network of data-centers Selectel AS49505
 89.248.168.14  # no-reverse-dns-configured.com Seychelles   Quasi Networks LTD. AS29073
 196.245.174.121  # 121.174.245.196-adsl.espanatelecom.es Spain 29 Madrid Packet Exchange Limited AS41564
+170.130.142.7  # solindtabaen.org United States TX Addison Eonix Corporation AS62904
 198.20.69.98  # census2.shodan.io United States IL Chicago SingleHop LLC AS32475
 198.20.70.114  # census3.shodan.io United States IL Chicago SingleHop LLC AS32475
 208.100.26.228  # ip228.208-100-26.static.steadfastdns.net United States IL Chicago Steadfast AS32748
@@ -157,6 +159,7 @@
 107.170.229.77  # zg-0509d-23.stretchoid.com United States CA San Francisco DigitalOcean  LLC AS14061
 107.170.232.51  # zg-0324a-54.stretchoid.com United States CA San Francisco DigitalOcean  LLC AS14061
 107.170.237.80  #  United States CA San Francisco DigitalOcean  LLC AS14061
+107.170.246.88  # zg-0509b-80.stretchoid.com United States CA San Francisco DigitalOcean  LLC AS14061
 54.153.64.247  # ec2-54-153-64-247.us-west-1.compute.amazonaws.com United States CA San Jose Amazon.com  Inc. AS16509
 167.99.168.194  #  United States CA Santa Clara DigitalOcean  LLC AS14061
 216.218.206.100  # scan-07h.shadowserver.org United States   Hurricane Electric LLC AS6939
