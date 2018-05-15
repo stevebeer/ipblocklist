@@ -1,6 +1,6 @@
 #####################################################################       
 # Stevebeer IP Blocklist                                           #       
-# Generated on 2018-05-14 23:01:02 UTC                              #       
+# Generated on 2018-05-15 23:52:02 UTC                              #       
 #                                                                   #       
 # For questions please refer to:                                    #       
 # https://github.com/stevebeer/ipblocklist                     #       
@@ -13,12 +13,15 @@
 27.210.189.66  #  China 25 Jinan CHINA UNICOM China169 Backbone AS4837
 106.75.50.37  #  China 23 Shanghai China Unicom Beijing Province Network AS4808
 106.75.85.103  #  China 23 Shanghai China Unicom Beijing Province Network AS4808
+114.86.83.141  #  China 23 Shanghai China Telecom (Group) AS4812
 117.50.7.159  #  China 23 Shanghai China Unicom Beijing Province Network AS4808
 43.226.66.44  #  China 30 Shenzhen  AS63612
 43.226.66.44  #  China 30 Shenzhen  AS63612
+210.12.183.165  #  China 14 Tong China Unicom Beijing Province Network AS4808
 110.167.92.93  #  China 6 Xining No.31 Jin-rong Street AS4134
 14.134.19.1  #  China 21 Yinchuan No.31 Jin-rong Street AS4134
 125.46.156.198  # hn.kd.ny.adsl China 9 Zhengzhou CHINA UNICOM China169 Backbone AS4837
+183.131.83.112  #  China 11  No.288 Fu-chun Road AS58461
 95.216.147.92  # static.92.147.216.95.clients.your-server.de Finland   Hetzner Online GmbH AS24940
 95.216.147.92  # static.92.147.216.95.clients.your-server.de Finland   Hetzner Online GmbH AS24940
 212.83.146.233  # probe12.onyphe.io France B8 Saint-victoret Online S.a.s. AS12876
@@ -64,6 +67,7 @@
 94.75.249.3  #  Netherlands   LeaseWeb Netherlands B.V. AS60781
 95.211.163.39  #  Netherlands   LeaseWeb Netherlands B.V. AS60781
 190.34.195.227  #  Panama 8 Panama Cable & Wireless Panama AS11556
+31.184.193.154  #  Russian Federation 66 Saint Petersburg Petersburg Internet Network ltd. AS44050
 185.22.153.172  # yaae.top Russian Federation   LLC Baxet AS51659
 185.22.153.172  # yaae.top Russian Federation   LLC Baxet AS51659
 46.161.55.106  #  Russian Federation   OOO Network of data-centers Selectel AS49505
@@ -72,12 +76,14 @@
 82.202.200.59  #  Russian Federation   OOO Network of data-centers Selectel AS49505
 82.202.200.59  #  Russian Federation   OOO Network of data-centers Selectel AS49505
 95.213.130.90  #  Russian Federation   OOO Network of data-centers Selectel AS49505
+89.248.168.171  # no-reverse-dns-configured.com Seychelles   Quasi Networks LTD. AS29073
 89.248.168.14  # no-reverse-dns-configured.com Seychelles   Quasi Networks LTD. AS29073
 196.245.174.121  # 121.174.245.196-adsl.espanatelecom.es Spain 29 Madrid Packet Exchange Limited AS41564
 170.130.142.7  # solindtabaen.org United States TX Addison Eonix Corporation AS62904
 198.20.69.98  # census2.shodan.io United States IL Chicago SingleHop LLC AS32475
 198.20.70.114  # census3.shodan.io United States IL Chicago SingleHop LLC AS32475
 208.100.26.228  # ip228.208-100-26.static.steadfastdns.net United States IL Chicago Steadfast AS32748
+196.52.43.129  #  United States NJ Edison LeaseWeb Netherlands B.V. AS60781
 196.52.43.60  #  United States NJ Edison LeaseWeb Netherlands B.V. AS60781
 184.105.139.100  # shadowserver.org United States CA Fremont Hurricane Electric LLC AS6939
 184.105.139.101  # shadowserver.org United States CA Fremont Hurricane Electric LLC AS6939
@@ -154,6 +160,7 @@
 71.6.135.131  # census7.shodan.io United States CA San Diego CariNet  Inc. AS10439
 71.6.202.204  # Ubuntu16202204.aspadmin.net United States CA San Diego CariNet  Inc. AS10439
 107.170.194.232  #  United States CA San Francisco DigitalOcean  LLC AS14061
+107.170.226.158  # zg-0509c-72.stretchoid.com United States CA San Francisco DigitalOcean  LLC AS14061
 107.170.243.117  #  United States CA San Francisco DigitalOcean  LLC AS14061
 107.170.195.12  #  United States CA San Francisco DigitalOcean  LLC AS14061
 107.170.229.77  # zg-0509d-23.stretchoid.com United States CA San Francisco DigitalOcean  LLC AS14061
