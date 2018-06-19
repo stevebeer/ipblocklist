@@ -1,6 +1,6 @@
 #####################################################################       
 # Stevebeer IP Blocklist                                           #       
-# Generated on 2018-05-17 09:52:02 UTC                              #       
+# Generated on 2018-06-19 09:52:02 UTC                              #       
 #                                                                   #       
 # For questions please refer to:                                    #       
 # https://github.com/stevebeer/ipblocklist                     #       
@@ -388,3 +388,28 @@
 196.52.43.101  #  United States NJ Edison LeaseWeb Netherlands B.V. AS60781
 80.82.70.118  # group-ib.com Seychelles 0 Anse Aux Pins Quasi Networks LTD. AS29073
 162.208.119.40  #  United States   NYI AS11403
+59.110.214.57  #  China 2 Hangzhou Hangzhou Alibaba Advertising Co. Ltd. AS37963
+112.65.170.186  #  China 23 Shanghai China Unicom Shanghai network AS17621
+197.159.128.171  #  Ghana 1 Accra Comsys (GH) Limited AS37012
+118.126.65.175  #  China 22 Beijing Shenzhen Tencent Computer Systems Company Limited AS45090
+202.104.118.177  # 177.118.104.202.broad.sz.gd.dynamic.163data.com.cn China 30 Guangzhou No.31 Jin-rong Street AS4134
+193.169.252.247  #  N/A N/A N/A  
+5.101.40.97  #  Russian Federation 66 Saint Petersburg Hostkey B.v. AS57043
+91.92.144.141  # ip-91-92-144-141.cinfuserver.com Bulgaria   BelCloud Hosting Corporation AS44901
+46.148.19.59  #  Ukraine   Infium  UAB AS50297
+107.170.229.236  # zg-0517a-142.stretchoid.com United States CA San Francisco DigitalOcean  LLC AS14061
+95.34.243.72  # 72.243.34.95.customer.cdi.no Norway 1 Osteras Telenor Norge AS AS2119
+5.101.40.98  #  Russian Federation 66 Saint Petersburg Hostkey B.v. AS57043
+95.215.62.20  #  Spain 60 Valencia Sologigabit  S.L.U. AS56934
+196.52.43.92  #  United States NJ Edison LeaseWeb Netherlands B.V. AS60781
+80.82.70.118  # group-ib.com Seychelles 0 Anse Aux Pins Quasi Networks LTD. AS29073
+5.8.10.202  #  Russian Federation 66 Saint Petersburg Petersburg Internet Network ltd. AS44050
+104.200.16.15  # min-05-10-4971-ustx-b-prod.binaryedge.ninja United States TX Dallas Linode  LLC AS63949
+54.193.47.33  # ec2-54-193-47-33.us-west-1.compute.amazonaws.com United States CA San Jose Amazon.com  Inc. AS16509
+46.17.42.160  #  Russian Federation   LLC Baxet AS51659
+94.102.49.193  # cloud.census.shodan.io Seychelles   Quasi Networks LTD. AS29073
+185.35.63.56  #  Switzerland   Nagravision SA AS42570
+71.6.158.166  # ninja.census.shodan.io United States CA San Diego CariNet  Inc. AS10439
+180.136.216.113  #  China 16 Nanning No.31 Jin-rong Street AS4134
+46.17.42.160  #  Russian Federation   LLC Baxet AS51659
+46.165.243.209  #  Germany   Leaseweb Deutschland GmbH AS28753
