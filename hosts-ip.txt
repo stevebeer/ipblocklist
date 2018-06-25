@@ -417,3 +417,7 @@
 74.82.47.8  # scan-11a.shadowserver.org United States   Hurricane Electric LLC AS6939
 74.82.47.9  # scan-12a.shadowserver.org United States   Hurricane Electric LLC AS6939
 113.173.95.112  # static.vnpt.vn Vietnam 35 Ho Chi Minh City VNPT Corp AS45899
+46.17.42.180  # Russian Federation flag Russian Federation 			LLC Baxet 	AS51659 *new*
+185.35.63.225  # Switzerland flag Switzerland 			Nagravision SA 	AS42570
+46.101.145.207 # donate.inperfo.com 	Germany flag Germany 	05 	Frankfurt 	Digital Ocean, Inc. 	AS200130
+162.243.137.85 # zg-0517a-67.stretchoid.com 	United States flag United States 	CA 	San Francisco 	DigitalOcean, LLC 	AS14061
