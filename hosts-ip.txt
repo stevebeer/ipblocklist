@@ -1,6 +1,6 @@
 #####################################################################        
 # Stevebeer IP Blocklist                                           #        
-# Generated on 2018-06-25 19:55:02 UTC                              #        
+# Generated on 2018-06-28 09:27:02 UTC                              #        
 #                                                                   #        
 # For questions please refer to:                                    #        
 # https://github.com/stevebeer/ipblocklist                     #        
@@ -462,3 +462,6 @@
 169.53.184.23
 27.151.128.36
 217.174.61.113
+89.23.202.228
+196.65.226.139
+186.179.142.130
