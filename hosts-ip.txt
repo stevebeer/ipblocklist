@@ -1,6 +1,6 @@
 #####################################################################        
 # Stevebeer IP Blocklist                                           #        
-# Generated on 2018-06-28 09:27:02 UTC                              #        
+# Generated on 2018-06-25 19:55:02 UTC                              #        
 #                                                                   #        
 # For questions please refer to:                                    #        
 # https://github.com/stevebeer/ipblocklist                     #        
@@ -384,91 +384,91 @@
 74.82.47.7  # scan-10a.shadowserver.org United States   Hurricane Electric LLC AS6939 
 74.82.47.8  # scan-11a.shadowserver.org United States   Hurricane Electric LLC AS6939 
 74.82.47.9  # scan-12a.shadowserver.org United States   Hurricane Electric LLC AS6939 
-113.173.95.112  # static.vnpt.vn Vietnam 35 Ho Chi Minh City VNPT Corp AS45899
-51.15.9.156
-198.204.244.90
-195.88.138.13
-77.120.176.171
-178.237.178.235
-124.238.62.73
-183.198.12.245
-207.244.157.10
-81.17.93.206
-185.234.217.102
-47.96.234.201
-5.9.77.102
-207.46.13.127
-222.131.2.176
-58.152.78.73
-107.150.59.98
-41.75.93.150
-94.21.16.113
-37.9.113.169
-178.154.171.78
-81.229.49.201
-185.62.190.191
-181.208.109.140
-157.55.39.17
-196.52.43.93
-110.244.210.10
-5.9.107.211
-54.144.20.176
-62.114.252.180
-77.81.65.250
-179.219.176.147
-185.35.63.44
-187.44.168.172
-210.7.13.70
-5.160.130.218
-209.126.136.4
-51.38.12.21
-78.97.37.230
-177.105.226.251
-216.244.66.244
-176.67.54.69
-212.43.62.194
-201.159.190.10
-87.252.180.147
-176.101.221.202
-96.30.237.131
-185.222.211.26
-85.105.251.192
-46.172.4.50
-212.126.110.98
-180.76.15.16
-180.76.15.24
-180.76.15.159
-198.204.244.90
-178.253.197.174
-194.247.173.123
-5.9.156.20
-51.15.9.156
-186.50.93.238
-58.218.160.221
-80.78.70.39
-72.87.95.6
-216.244.66.244
-180.97.106.164
-110.244.210.10
-221.191.16.175
-175.107.201.115
-40.77.167.74
-180.97.106.39
-109.73.180.183
-190.83.219.32
-90.91.175.146
-78.166.114.107
-177.99.52.143
-169.53.184.23
-27.151.128.36
-217.174.61.113
-89.23.202.228
-196.65.226.139
-186.179.142.130
-118.25.55.70
-78.129.130.48
-163.142.40.150
-207.46.13.203
-40.77.167.82
-173.208.200.154
-196.65.226.139
+113.173.95.112  # static.vnpt.vn Vietnam 35 Ho Chi Minh City VNPT Corp AS45899 
+51.15.9.156  # hav0c.net Netherlands 7 Haarlem Online S.a.s. AS12876 
+198.204.244.90  # host5.universodohost.com.br United States MO Kansas City DataShack  LC AS33387 
+195.88.138.13  # ip-195-88-138-13.dss-group.net Ukraine 3 Chernivtsi PP Neiron Systems AS48323 
+77.120.176.171  # 77-120-176-171.dynamic-FTTB.kharkov.volia.com Ukraine 7 Kharkiv Volia AS25229 
+178.237.178.235  # ip-178.237.178.235.zelenaya.net Russian Federation 70 Stavropol OOO SET AS48176 
+124.238.62.73  # 73.62.238.124.broad.ts.he.dynamic.163data.com.cn China 10 Hebei No.31 Jin-rong Street AS4134 
+183.198.12.245  #  China 10 Shijiazhuang Hebei Mobile Communication Company Limited AS24547 
+207.244.157.10  # 10.157.244.207.wowrack.com United States WA Seattle Wowrack.com AS23033 
+81.17.93.206  #  Azerbaijan 9 Baku Baktelekom AS28787 
+185.234.217.102  #  Ireland     
+47.96.234.201  #  China 2 Hangzhou Hangzhou Alibaba Advertising Co. Ltd. AS37963 
+5.9.77.102  # static.102.77.9.5.clients.your-server.de Germany   Hetzner Online GmbH AS24940 
+207.46.13.127  # msnbot-207-46-13-127.search.msn.com United States WA Redmond Microsoft Corporation AS8075 
+222.131.2.176  #  China 22 Beijing China Unicom Beijing Province Network AS4808 
+58.152.78.73  # n058152078073.netvigator.com Hong Kong 0 Central District PCCW Limited AS4760 
+107.150.59.98  #  United States MO Kansas City DataShack  LC AS33387 
+41.75.93.150  #  Nigeria 50 Port-harcourt MAINONE AS37282 
+94.21.16.113  # 94-21-16-113.pool.digikabel.hu Hungary 16 Gyomro DIGI Tavkozlesi es Szolgaltato Kft. AS20845 
+37.9.113.169  # 37-9-113-169.spider.yandex.com Russian Federation 48 Moscow YANDEX LLC AS13238 
+178.154.171.78  # 178-154-171-78.spider.yandex.com Russian Federation   YANDEX LLC AS13238 
+81.229.49.201  # 81-229-49-201-no195.tbcn.telia.com Sweden 25 Kungsör Telia Company AB AS3301 
+185.62.190.191  # nigeria.is.cool Netherlands   Dotsi  Unipessoal Lda. AS49349 
+181.208.109.140  #  Venezuela 13 Barquisimeto Corporación Telemic C.A. AS21826 
+157.55.39.17  # msnbot-157-55-39-17.search.msn.com United States WA Redmond Microsoft Corporation AS8075 
+196.52.43.93  #  United States NJ Edison LeaseWeb Netherlands B.V. AS60781 
+110.244.210.10  #  China 10 Hebei CHINA UNICOM China169 Backbone AS4837 
+5.9.107.211  # static.211.107.9.5.clients.your-server.de Germany   Hetzner Online GmbH AS24940 
+54.144.20.176  # ec2-54-144-20-176.compute-1.amazonaws.com United States VA Ashburn Amazon.com  Inc. AS14618 
+62.114.252.180  # host.62.114.252.180.nile-online.net Egypt   Etisalat Misr AS36992 
+77.81.65.250  #  Romania   AT NET SRL AS56729 
+179.219.176.147  # b3dbb093.virtua.com.br Brazil 23 Porto Alegre CLARO S.A. AS28573 
+185.35.63.44  #  Switzerland   Nagravision SA AS42570 
+187.44.168.172  # 187-44-168-172.STATIC.itsweb.com.br Brazil 5 Salvador ITS TELECOMUNICAÇÕES LTDA AS28186 
+210.7.13.70  # CDMA-210-7-13-70.connect.com.fj Fiji 1 Suva Telecom Fiji Limited AS4638 
+5.160.130.218  #  Iran  Islamic Republic of   Respina Networks & Beyond PJSC AS42337 
+209.126.136.4  #  United States CA San Diego CariNet  Inc. AS10439 
+51.38.12.21  # ip21.ip-51-38-12.eu France   OVH SAS AS16276 
+78.97.37.230  #  Romania 30 Paulesti Liberty Global Operations B.V. AS6830 
+177.105.226.251  #  Brazil 15 Joao Pinheiro Internet Pinheirense Ltda - ME AS262313 
+216.244.66.244  #  United States WA Seattle Wowrack.com AS23033 
+176.67.54.69  # enode-176-67-54-69.pppoe.omsk.smartkom.ru Russian Federation 54 Omsk Joint Stock Company Smartkom AS42676 
+212.43.62.194  # 212-43-62-194.pz.ddns.bulsat.com Bulgaria 48 Pazardjik Bulsatcom EAD AS43205 
+201.159.190.10  # static-224-10.patrimonialtelecom.com.br Brazil 18 Pontal Do Parana Patrimônio Monitoramento Eletrônico LTDA. AS61940 
+87.252.180.147  # 147-180-252-87.filibe.net Bulgaria 51 Manole Angelsoft ET AS12829 
+176.101.221.202  #  Ukraine 5 Donetsk SDS-Vostok Ltd. AS49588 
+96.30.237.131  # s131-237-30-96.ssvec.az.wi-power.com United States AZ Elfrida Cherryland Services Inc AS13904 
+185.222.211.26  #  United Kingdom   Outsource Grid Limited AS205092 
+85.105.251.192  # 85.105.251.192.static.ttnet.com.tr Turkey 80 Sirnak Turk Telekom AS9121 
+46.172.4.50  #  Russian Federation 9 Belgorod MTS PJSC AS197023 
+212.126.110.98  #  Iraq 1 Sulaymaniyah AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd. AS39216 
+180.76.15.16  # baiduspider-180-76-15-16.crawl.baidu.com China 22 Beijing Beijing Baidu Netcom Science and Technology Co.  Ltd. AS55967 
+180.76.15.24  # baiduspider-180-76-15-24.crawl.baidu.com China 22 Beijing Beijing Baidu Netcom Science and Technology Co.  Ltd. AS55967 
+180.76.15.159  # baiduspider-180-76-15-159.crawl.baidu.com China 22 Beijing Beijing Baidu Netcom Science and Technology Co.  Ltd. AS55967 
+198.204.244.90  # host5.universodohost.com.br United States MO Kansas City DataShack  LC AS33387 
+178.253.197.174  # 178-253-197-174.adsl-a-10.sezampro.rs Serbia 0 Beograd Drustvo za telekomunikacije Orion telekom doo Beograd  Gandijeva 76a AS9125 
+194.247.173.123  #  Ukraine 12 Kiev LLC Monolith.net AS48230 
+5.9.156.20  # static.20.156.9.5.clients.your-server.de Germany   Hetzner Online GmbH AS24940 
+51.15.9.156  # hav0c.net Netherlands 7 Haarlem Online S.a.s. AS12876 
+186.50.93.238  # r186-50-93-238.dialup.adsl.anteldata.net.uy Uruguay 10 Montevideo Administracion Nacional de Telecomunicaciones AS6057 
+58.218.160.221  #  China 4 Nanjing No.31 Jin-rong Street AS4134 
+80.78.70.39  #  Albania   ABCOM Shpk AS21183 
+72.87.95.6  # static-72-87-95-6.prvdri.fios.verizon.net United States RI Providence MCI Communications Services  Inc. d/b/a Verizon Business AS701 
+216.244.66.244  #  United States WA Seattle Wowrack.com AS23033 
+180.97.106.164  #  China 4 Nanjing AS Number for CHINANET jiangsu province backbone AS23650 
+110.244.210.10  #  China 10 Hebei CHINA UNICOM China169 Backbone AS4837 
+221.191.16.175  # p912175-ipngn4701fukuhanazo.fukushima.ocn.ne.jp Japan 40 Tokyo NTT Communications Corporation AS4713 
+175.107.201.115  #  Pakistan 5 Karachi Cyber Internet Services (Pvt) Ltd. AS9541 
+40.77.167.74  # msnbot-40-77-167-74.search.msn.com United States VA Boydton Microsoft Corporation AS8075 
+180.97.106.39  #  China 4 Nanjing AS Number for CHINANET jiangsu province backbone AS23650 
+109.73.180.183  #  Italy 11 San Martino In Pensilis E.crom S.r.l. AS49924 
+190.83.219.32  #  Trinidad and Tobago 5 Port-of-spain Columbus Communications Trinidad Limited. AS27665 
+90.91.175.146  # LFbn-1-12374-146.w90-91.abo.wanadoo.fr France A8 Montmorency Orange AS3215 
+78.166.114.107  # 78.166.114.107.dynamic.ttnet.com.tr Turkey 19 Çorum Turk Telekom AS9121 
+177.99.52.143  # 177.99.52.dynamic.adsl.gvt.net.br Brazil   TELEFÔNICA BRASIL S.A AS18881 
+169.53.184.23  # 17.b8.35a9.ip4.static.sl-reverse.com United States   SoftLayer Technologies Inc. AS36351 
+27.151.128.36  # 36.128.151.27.broad.qz.fj.dynamic.163data.com.cn China 7 Quanzhou No.31 Jin-rong Street AS4134 
+217.174.61.113  # vlan-burgas-static-61-113.comnet.bg Bulgaria 42 Sofia Comnet Bulgaria Holding Ltd. AS29084 
+89.23.202.228  # 228z202.klimovsk.net Russian Federation 47 Klimovsk Klimovsk network Ltd AS51042 
+196.65.226.139  #  Morocco 49 Temara MT-MPLS AS36903 
+186.179.142.130  #  Suriname 16 Paramaribo Telecommunicationcompany Suriname - TeleSur AS27775 
+118.25.55.70  #  China 22 Beijing Shenzhen Tencent Computer Systems Company Limited AS45090 
+78.129.130.48  #  United Kingdom H9 London iomart Cloud Services Limited. AS20860 
+163.142.40.150  #  China 30 Guangzhou China Unicom IP network China169 Guangdong province AS17816 
+207.46.13.203  # msnbot-207-46-13-203.search.msn.com Thailand   Microsoft Corporation AS8075 
+40.77.167.82  # msnbot-40-77-167-82.search.msn.com United States VA Boydton Microsoft Corporation AS8075 
+173.208.200.154  # fit-mediateur.icalproud.com United States MO Kansas City WholeSale Internet  Inc. AS32097 
+196.65.226.139  #  Morocco 49 Temara MT-MPLS AS36903 
