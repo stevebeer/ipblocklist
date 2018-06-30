@@ -40,8 +40,7 @@
 88.168.46.169  # tvn95-5-88-168-46-169.fbx.proxad.net France A8 Taverny Free SAS AS12322 
 88.168.46.169  # tvn95-5-88-168-46-169.fbx.proxad.net France A8 Taverny Free SAS AS12322 
 212.83.146.233  # probe12.onyphe.io France B8 Saint-victoret Online S.a.s. AS12876 
-164.132.205.21  # ns3048348.ip-164-132-205.eu France   OVH SAS AS1
-76 
+164.132.205.21  # ns3048348.ip-164-132-205.eu France   OVH SAS AS176 
 164.132.91.13  # ip13.ip-164-132-91.eu France   OVH SAS AS16276 
 51.38.12.13  # ip13.ip-51-38-12.eu France   OVH SAS AS16276 
 91.121.14.96  # cunts.space France   OVH SAS AS16276 
