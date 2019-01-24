@@ -1,4 +1,6 @@
 #added 24 jan 2019
+184.105.139.67 #scan-01.shadowserver.org
+74.82.47.41 #scan-12h.shadowserver.org
 103.252.252.151
 104.223.24.136
 104.223.24.164
