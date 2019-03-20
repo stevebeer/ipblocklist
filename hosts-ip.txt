@@ -7,4 +7,4 @@
 134.209.75.211	#honeypot telnet
 188.19.139.84	#honeypot telnet
 178.92.32.5	#honeypot telnet
-156.196.65.80 #honeypoy telnet
+156.196.65.80 #honeypot telnet
