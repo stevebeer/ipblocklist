@@ -3,7 +3,8 @@
 159.89.18.233	#honeypot telnet
 41.235.253.130	#honeypot telnet
 177.242.23.66	#honeypot ssh
-91.250.112.29	#honeypot ssh
+91.250.112.293 honeypot ssh
 134.209.75.211	#honeypot telnet
 188.19.139.84	#honeypot telnet
 178.92.32.5	#honeypot telnet
+156.196.65.80 #honeypoy telnet
