@@ -18,5 +18,5 @@
 69.112.9.58
 117.201.195.219
 193.169.254.217
-59.97.238.131 #Confidence of Abuse is 21%, SURICATA HTTP missing Host header
-208.93.194.12 #Confidence of Abuse is 81%, SURICATA SMTP invalid reply
+59.97.238.131 
+208.93.194.12 
