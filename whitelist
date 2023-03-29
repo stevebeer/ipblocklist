@@ -1,2 +1,2 @@
-2.19.195.*      #Rabobank-Akamai
-104.110.240.*    #Rabobank-Akamai
+2.19.195.0/24      #Rabobank-Akamai
+104.110.240.0/24    #Rabobank-Akamai
